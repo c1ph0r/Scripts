@@ -1,3 +1,4 @@
+REM Run as administrator
 @ECHO ON
 manage-bde -lock -ForceDismount D:
 PAUSE
