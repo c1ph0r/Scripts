@@ -1,0 +1,3 @@
+@ECHO ON
+manage-bde -lock -ForceDismount D:
+PAUSE
