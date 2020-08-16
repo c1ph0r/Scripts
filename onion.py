@@ -1,4 +1,4 @@
-#!/bin/python3
+# !/bin/python3
 # Levi inspired me to make something in Python
 # I ain't the sharpest tool in the shed
 # Delta Squad Zero represent
